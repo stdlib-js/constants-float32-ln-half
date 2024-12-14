@@ -229,7 +229,7 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/constants-float32-ln-half/main/LICENSE
 
-[@stdlib/math/base/special/lnf]: https://github.com/stdlib-js/math-base-special-ln
+[@stdlib/math/base/special/lnf]: https://github.com/stdlib-js/math-base-special-lnf
 
 </section>
 
