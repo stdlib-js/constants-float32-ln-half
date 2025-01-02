@@ -153,6 +153,12 @@ Macro for the [natural logarithm][@stdlib/math/base/special/lnf] of `1/2` as a s
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/constants-float64/ln-half`][@stdlib/constants/float64/ln-half]</span><span class="delimiter">: </span><span class="description">natural logarithm of 1/2.</span>
+
 </section>
 
 <!-- /.related -->
@@ -183,7 +189,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -230,6 +236,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/constants-float32-ln-half/main/LICENSE
 
 [@stdlib/math/base/special/lnf]: https://github.com/stdlib-js/math-base-special-lnf
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float64/ln-half]: https://github.com/stdlib-js/constants-float64-ln-half
+
+<!-- </related-links> -->
 
 </section>
 
