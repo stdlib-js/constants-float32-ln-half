@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-17)
+## Unreleased (2026-10-24)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`03aef6e`](https://github.com/stdlib-js/stdlib/commit/03aef6e3ab00a4fc7d3791526ae9b55e3bf5dcef) - **test:** migrate `constants/float32/ln-half` to ULP-based assertions [(#16192)](https://github.com/stdlib-js/stdlib/pull/16192) _(by Athan Reines)_
 -   [`4154fdc`](https://github.com/stdlib-js/stdlib/commit/4154fdcb3d19ce74a7210ddb494dd662bdb1f012) - **chore:** update examples and add keyword [(#12967)](https://github.com/stdlib-js/stdlib/pull/12967) _(by Philipp Burckhardt)_
 -   [`c2b92b4`](https://github.com/stdlib-js/stdlib/commit/c2b92b4e7c4840bb859808dc0dacd97833019549) - **chore:** propagate fixes to sibling packages [(#11892)](https://github.com/stdlib-js/stdlib/pull/11892) _(by Philipp Burckhardt)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
